@@ -1,0 +1,7 @@
+tqdm
+openai
+elasticsearch
+pandas
+scikit-learn
+ipykernel
+python-dotenv

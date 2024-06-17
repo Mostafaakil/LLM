@@ -1,0 +1,31 @@
+.ipynb_checkpoints
+mlruns/
+.vscode/
+./DS_Store
+*.db
+*.DS_Store
+/venv/
+/.venv/
+.env
+/logs/
+/cache/
+.idea/
+*.sqlite3
+
+# python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+*.egg
+
+# Type checking artifacts
+.mypy_cache/
+.dmypy.json
+dmypy.json
+.pyre/
+
+# IPython
+profile_default/
+ipython_config.py
+*.ipynb_checkpoints/*
