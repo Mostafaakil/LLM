@@ -5,3 +5,5 @@ pandas
 scikit-learn
 ipykernel
 python-dotenv
+transformers
+accelerate
