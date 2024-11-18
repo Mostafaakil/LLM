@@ -1,0 +1,16 @@
+tqdm
+openai
+elasticsearch
+pandas
+scikit-learn
+ipykernel
+python-dotenv
+transformers
+accelerate
+matplotlib
+seaborn
+streamlit
+psycopg2-binary
+sentence-transformers
+backports.zoneinfo
+pgcli

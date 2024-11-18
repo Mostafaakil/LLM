@@ -7,3 +7,8 @@ ipykernel
 python-dotenv
 transformers
 accelerate
+matplotlib
+seaborn
+streamlit
+psycopg2-binary
+sentence-transformers
