@@ -12,3 +12,7 @@ seaborn
 streamlit
 psycopg2-binary
 sentence-transformers
+backports.zoneinfo
+langchain
+langchain-elasticsearch
+langchain-community
